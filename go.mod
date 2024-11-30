@@ -1,4 +1,4 @@
-module symbols
+module github.com/hulutech-web/symbols
 
 go 1.23.2
 
